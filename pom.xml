@@ -27,7 +27,7 @@
     <version.slf4j>1.7.10</version.slf4j>
     <version.zookeeper>3.4.6</version.zookeeper>
     <version.netty>4.0.26.Final</version.netty>
-    <version.commons-collections>4.0</version.commons-collections>
+    <version.commons-collections>4.1</version.commons-collections>
     <version.protostuff>1.0.9</version.protostuff>
     <version.objenesis>2.1</version.objenesis>
     <version.cglib>3.1</version.cglib>
